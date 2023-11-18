@@ -81,7 +81,7 @@ namespace Model
                 SqlCommand SqlCmd = new SqlCommand
                 {
                     Connection = Connection.SqlCon,
-                    CommandText = "spInserirProduto",
+                    CommandText = "spInseri0rProduto",
                     CommandType = CommandType.StoredProcedure
                 };
 
